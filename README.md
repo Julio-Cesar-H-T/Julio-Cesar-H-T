@@ -45,7 +45,9 @@ Enfocado en seguridad defensiva. Diseño de infraestructuras seguras, segmentaci
  
 > [Practicas-Sistemas-Operativos-III](https://github.com/Julio-Cesar-H-T/Practicas-Sistemas-Operativos-III)
  
-Repositorio unificado con los 9 módulos de administración avanzada de servidores Linux, cubriendo desde fundamentos hasta infraestructura como código:
+Repositorio unificado con los 9 módulos de administración avanzada de servidores Linux, cubriendo desde los fundamentos hasta infraestructura como código:
  
-`Administración de usuarios y permisos` · `Shell Scripting` · `Servicios de red (HTTP/Correo/Impresión)` · `Alta disponibilidad (Keepalived/Pacemaker)` · `Seguridad (GPG2, Snort IDS, 2FA)` · `Active Directory con Samba` · `Contenerización (Docker/Compose)` · `IaC (Terraform en Azure + Ansible)` 
+`Administración de usuarios y permisos` · `Shell Scripting` · `Servicios de red (HTTP/Correo/Impresión)` ·
+`Alta disponibilidad (Keepalived/Pacemaker)` · `Seguridad (GPG2, Snort IDS, 2FA)` · 
+`Active Directory con Samba` · `Contenerización (Docker/Compose)` · `IaC (Terraform en Azure + Ansible)` 
 ---
