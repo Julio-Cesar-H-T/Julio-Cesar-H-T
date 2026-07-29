@@ -54,4 +54,3 @@ Repositorio unificado con los 9 módulos de administración avanzada de servidor
 
 
 <a href="https://www.credly.com/earner/earned/share/4a2d08a4-b633-474a-92f6-a5a32d0a91d8" target="_blank">
-    <img src="[https://i.imgur.com/FSKAB7A.png](https://images.credly.com/size/340x340/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png)" width="256" />
