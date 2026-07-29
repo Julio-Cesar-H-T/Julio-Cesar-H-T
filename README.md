@@ -2,7 +2,7 @@
 
 **`Blue Team · Network Security · SOC Engineering`**
 
-IT Essentials · CCNA M1 & M2 · ISC2 CC (en proceso)
+IT Essentials · CCNA M1 & M2 · ISC2 CC 
 
 Enfocado en seguridad defensiva. Diseño de infraestructuras seguras, segmentación de redes y despliegue de soluciones SIEM/XDR.
 
