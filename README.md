@@ -51,3 +51,7 @@ Repositorio unificado con los 9 módulos de administración avanzada de servidor
 `Alta disponibilidad (Keepalived/Pacemaker)` · `Seguridad (GPG2, Snort IDS, 2FA)` · 
 `Active Directory con Samba` · `Contenerización (Docker/Compose)` · `IaC (Terraform en Azure + Ansible)` 
 ---
+
+
+<a href="https://www.credly.com/badges/4a2d08a4-b633-474a-92f6-a5a32d0a91d8" target="_blank">
+    <img src="https://i.imgur.com/FSKAB7A.png" width="256" />
